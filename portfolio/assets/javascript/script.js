@@ -1,7 +1,7 @@
 // Typing Text Js
 $(document).on('DOMContentLoaded', function () {
     window.ityped.init(document.querySelector('.ityped'), {
-        strings: ['HI THERE!', 'I’M Kuldeep', 'Full Stack Web Developer!', '₹250/hr Minimum'],
+        strings: ['HI THERE!', 'I’M Kuldeep', 'Full Stack Developer!', '₹250/hr Minimum'],
         loop: true
     });
 });
